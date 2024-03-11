@@ -43,19 +43,19 @@ style:
   candidate_list_layout: linear        # 候选项排列方向 stacked(默认) | linear
   inline_preedit: true                    # 拼音位于： 候选框 false | 行内 true
   corner_radius: 4
-  hilited_corner_radius: 4
+  hilited_corner_radius: 0
   border_height: 0
   border_width: 0
-  line_spacing: 5
+  line_spacing: 10
   spacing: 10
   #candidate_format: '%c. %@'
   #base_offset: 6
   font_face: 'Lucida Grande'
-  font_point: 21
+  font_point: 16
   #label_font_face: 'Lucida Grande'
-  label_font_point: 18
+  label_font_point: 16
   #comment_font_face: 'Lucida Grande'
-  comment_font_point: 18
+  comment_font_point: 16
 
 
 # 皮肤列表
